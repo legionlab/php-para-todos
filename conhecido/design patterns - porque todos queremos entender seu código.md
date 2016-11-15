@@ -410,3 +410,8 @@ E chegamos ao final desse artigo, tentei trazer os 5 padrões de projetos que ac
 Qualquer dúvida, suguestão, crítica, ou algo a mais, favor comentar na publicação do Facebook ou WhatsApp, ou então abrir um Issue no repositório ou se preferir contatar no email leonardo-i@outlook.com.
 
 P.S.: sem tempo para a revisão, então perdoem erros de português, se tiver.
+
+
+Referências:
+
+http://br.phptherightway.com/pages/Design-Patterns.html
